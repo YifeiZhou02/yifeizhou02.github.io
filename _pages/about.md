@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, there, and welcome! I'm Yifei, an undergraduate of class 2024 at Cornell, studying fantastic mathematics and computer science. I have been working in the area of Natural Language Processing and Theoretical Reinforcement Learning, fortunate enough to be advised by [prof. Yansong Feng](https://sites.google.com/site/ysfeng/home) at Peking University, [prof. Wen Sun](https://wensun.github.io/) at Cornell University, and [Dr. Sernam Lim](https://sites.google.com/site/sernam) at Meta AI. 
+
+My research interest lies in building principled and generalizable deep learning methods. Doing so requires a generalizable optimization goal, accurate anomaly detection, and potentially system human interactions for active learning. I am also interested in machine learning and language understanding.
+
+I am a co-president of [Cornell University Artificial Intelligence (CUAI)](https://cuai.github.io/). If you are a Cornell Undergraduate passionate about research in any area of machine learning, please shoot me an email.
 
 A data-driven personal website
 ======
