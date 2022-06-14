@@ -2,10 +2,9 @@
 title: "GAPX: Generalized Autoregressive Paraphrase-identification X"
 collection: publications
 permalink: /publication/GAPX
-excerpt: 'We use an autoregressive method to build a paraphrase identification model robust to distribution shift.'
+excerpt: 'Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim'
 venue: 'ICML 2022, Principles Of Distribution Shift Workshop'
 date: 2022-07-17
-author: Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim
 paperurl: 'https://sites.google.com/view/icml-2022-pods/home'
 ---
 [pdf](https://yifeizhou02.github.io/yifeizhou.github.io/files/GAPX.pdf)
