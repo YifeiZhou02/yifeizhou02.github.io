@@ -5,8 +5,8 @@ permalink: /publication/discourse_parsing
 excerpt: Yifei Zhou and Yansong Feng
 venue: NAACL 2022 (findings)
 date: 2022-07-11
-paperurl: 'https://arxiv.org/abs/2205.02090'
 ---
+[paper](https://arxiv.org/abs/2205.02090)
 [code](https://github.com/YifeiZhou02/Improve-Discourse-Dependency-Parsing-with-Contextualized-Representations)
 
 ![DDP model overview](https://user-images.githubusercontent.com/83000332/165659676-c641cc42-6500-44ce-afec-b64cfd8192d9.png)
