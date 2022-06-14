@@ -12,4 +12,4 @@ Hi, there, and welcome! I'm Yifei, an undergraduate of class 2024 at Cornell, st
 
 My work touches on Natural Languae Processing, Computer Vision and Reinforcement Learning. My research interest lies in building principled and generalizable deep learning methods, and doing so requires a guaranteed machine learning approach and insight from human cognition. I'm recently working on Backward Compatible Representation Learning, and Imitation Learning.
 
-I am a co-president of [Cornell University Artificial Intelligence (CUAI)](https://cuai.github.io/). If you are a Cornell Undergraduate passionate about research in any area of machine learning, please shoot me an email.
+I will serve as a co-president of [Cornell University Artificial Intelligence (CUAI)](https://cuai.github.io/) from Fall 2022. We welcome Cornell undergraduates passionate about any area of machine learning.
