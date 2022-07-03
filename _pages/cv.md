@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://yifeizhou02.github.io/yifeizhou.github.io/files/CV.pdf)
+[CV](https://yifeizhou02.github.io/files/CV.pdf)
 ======
 
 
