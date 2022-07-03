@@ -6,7 +6,7 @@ excerpt: 'Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim'
 venue: 'ICML 2022, Principles Of Distribution Shift Workshop'
 date: 2022-07-17
 ---
-[pdf](https://yifeizhou02.github.io/yifeizhou.github.io/files/GAPX.pdf)
+[pdf](https://yifeizhou02.github.io/files/GAPX.pdf)
 ![Canvas 1](https://user-images.githubusercontent.com/83000332/173618717-570f697c-2671-41aa-96da-1459fc627332.png)
 
 # abstract:
