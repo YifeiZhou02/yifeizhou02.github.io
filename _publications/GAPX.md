@@ -3,7 +3,7 @@ title: "GAPX: Generalized Autoregressive Paraphrase-identification X"
 collection: publications
 permalink: /publication/GAPX
 excerpt: 'Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim'
-venue: 'ICML 2022, Principles Of Distribution Shift Workshop'
+venue: 'Under Review. Abridged in ICML 2022, Principles Of Distribution Shift Workshop'
 date: 2022-07-17
 ---
 [pdf](https://yifeizhou02.github.io/files/GAPX.pdf)
