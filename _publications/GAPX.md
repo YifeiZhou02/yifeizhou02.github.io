@@ -6,7 +6,8 @@ excerpt: 'Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim'
 venue: 'NeurIPS 2022'
 date: 2022-07-17
 ---
-[pdf](https://yifeizhou02.github.io/files/GAPX.pdf)
+[paper](https://arxiv.org/abs/2210.01979)
+[code](https://github.com/YifeiZhou02/generalized_paraphrase_identification)
 ![Canvas 1](https://user-images.githubusercontent.com/83000332/173618717-570f697c-2671-41aa-96da-1459fc627332.png)
 
 # abstract:
