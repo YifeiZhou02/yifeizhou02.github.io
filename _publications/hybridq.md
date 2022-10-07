@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/hybridq
 excerpt: 'Yuda Song*, Yifei Zhou* (* equal contribution), Ayush Sekhari, Drew Bagnell, Akshay Krishnamurthy, Wen Sun'
 venue: 'Under submission, ICLR 2023'
-date: 2022-10
+date: 2022-9-28
 ---
 
 # abstract:
