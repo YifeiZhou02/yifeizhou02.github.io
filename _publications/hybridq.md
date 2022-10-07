@@ -2,8 +2,8 @@
 title: "Hybrid RL: Using offline data can make online RL efficient"
 collection: publications
 permalink: /publication/hybridq
-excerpt: 'Yuda Song*, Yifei Zhou* (* equal contribution), Ayush Sekhari, Drew Bagnell, Akshay Krishnamurthy, Wen Sun'
-venue: 'Under submission, ICLR 2023'
+excerpt: 'Yuda Song\*, Yifei Zhou\* (\* equal contribution), Ayush Sekhari, Drew Bagnell, Akshay Krishnamurthy, Wen Sun'
+venue: 'Under submission, ICLR 2023
 date: 2022-9-28
 ---
 
