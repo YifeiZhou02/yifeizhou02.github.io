@@ -14,4 +14,4 @@ My work touches on Natural Languae Processing, Computer Vision and Reinforcement
 
 I am a co-president of [Cornell University Artificial Intelligence (CUAI)](https://cuai.github.io/). We welcome Cornell undergraduates passionate about any area of machine learning.
 
-#### I am looking for a Ph.D. position for a similar research interest.
+### I am currently looking for a Ph.D. opportunity for a similar research interest.
