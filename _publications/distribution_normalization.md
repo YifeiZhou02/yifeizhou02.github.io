@@ -2,8 +2,8 @@
 title: "Distribution Normalization: An \"Effortless\" Test-Time Augmentation for Contrastively Learned Visual-language Models"
 collection: publications
 permalink: /publication/distribution_normaization
-excerpt: 'Yifei Zhou\*, Juntao Ren\*, Fengyu Li\*, Ramin Zabih, Ser-Nam Lim'
-venue: 'Under Review'
+excerpt: '**Yifei Zhou**\*, Juntao Ren\*, Fengyu Li\*, Ramin Zabih, Ser-Nam Lim'
+venue: 'Preprint'
 date: 2023-06-17
 ---
 [paper](https://arxiv.org/abs/2302.11084)
