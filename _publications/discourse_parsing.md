@@ -2,7 +2,7 @@
 title: "Improve Discourse Dependency Parsing with Contextualized Representations"
 collection: publications
 permalink: /publication/discourse_parsing
-excerpt: **Yifei Zhou**, Yansong Feng
+excerpt: **Yifei Zhou** , Yansong Feng
 venue: NAACL 2022 (findings)
 date: 2022-07-11
 ---
