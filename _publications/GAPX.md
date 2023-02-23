@@ -2,7 +2,7 @@
 title: "GAPX: Generalized Autoregressive Paraphrase-identification X"
 collection: publications
 permalink: /publication/GAPX
-excerpt: 'Yifei Zhou, Renyu Li, Hayden Housen, and Sernam Lim'
+excerpt: '**Yifei Zhou**, Renyu Li, Hayden Housen, and Sernam Lim'
 venue: 'NeurIPS 2022'
 date: 2022-07-17
 ---
