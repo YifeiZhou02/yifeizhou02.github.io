@@ -14,7 +14,7 @@ My work touches on Natural Languae Processing, Computer Vision and Reinforcement
 
 I am a co-president of [Cornell University Artificial Intelligence (CUAI)](https://cuai.github.io/). We welcome Cornell undergraduates passionate about any area of machine learning.
 
-### I am currently looking for a Ph.D. opportunity for a similar research interest.
+### I will be joining Berkeley AI Research (BAIR) for my Ph.D. study from Fall 2023!
 
 ## Awards Received
 Pauline and Irving Tanner Dean's Scholarship
