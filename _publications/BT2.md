@@ -2,7 +2,7 @@
 title: "BT^2: Backward-compatible Training with Basis Transformation"
 collection: publications
 permalink: /publication/BT2
-excerpt: '**Yifei Zhou**, Zilu Li, Abhinav Shrivastava, Hengshuang Zhao, Antonio Torralba, Taipeng Tian, Ser-Nam Lim'
+excerpt: '**Yifei Zhou**\*, Zilu Li\*, Abhinav Shrivastava, Hengshuang Zhao, Antonio Torralba, Taipeng Tian, Ser-Nam Lim'
 venue: 'ICCV 2023'
 date: 2023-05-17
 ---
