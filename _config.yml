@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yifei Zhou"
   avatar           : "profile.png"
-  bio              : "Incoming Ph.D. student @BAIR"
+  bio              : "Ph.D. student @BAIR"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Iv5WU4UAAAAJ"
   email            : "yifei_zhou@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
