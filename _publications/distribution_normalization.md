@@ -3,7 +3,7 @@ title: "Distribution Normalization: An \"Effortless\" Test-Time Augmentation for
 collection: publications
 permalink: /publication/distribution_normaization
 excerpt: '**Yifei Zhou**\*, Juntao Ren\*, Fengyu Li\*, Ramin Zabih, Ser-Nam Lim'
-venue: 'Preprint'
+venue: 'NeurIPS2023'
 date: 2023-06-17
 ---
 [paper](https://arxiv.org/abs/2302.11084)
