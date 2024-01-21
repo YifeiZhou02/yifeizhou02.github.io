@@ -3,7 +3,7 @@ title: "Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees
 collection: publications
 permalink: /publication/HNPG
 excerpt: '**Yifei Zhou**\*, Ayush Sekhari\* , Yuda Song, Wen Sun'
-venue: 'Preprint'
+venue: 'ICLR 2024'
 date: 2023-11-16
 ---
 [paper](https://arxiv.org/abs/2311.08384)
