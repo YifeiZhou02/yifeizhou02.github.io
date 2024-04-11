@@ -2,7 +2,7 @@
 title: "Autonomous Evaluation and Refinement of Digital Agents"
 collection: publications
 permalink: /publication/agenteval
-excerpt: 'Jiayi Pan, Yichi Zhang, Nicolas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr'
+excerpt: 'Jiayi Pan, Yichi Zhang, Nicolas Tomlin, **Yifei Zhou**, Sergey Levine, Alane Suhr'
 venue: 'Preprint'
 date: 2024-4-10
 ---
