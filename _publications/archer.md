@@ -2,7 +2,7 @@
 title: "ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL"
 collection: publications
 permalink: /publication/archer
-excerpt: 'Yifei Zhou, Andrea Zanette, Jiayi Pan, Sergey Levine, Aviral Kumar'
+excerpt: '**Yifei Zhou**, Andrea Zanette, Jiayi Pan, Sergey Levine, Aviral Kumar'
 venue: 'Preprint'
 date: 2024-2-29
 ---
