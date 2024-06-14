@@ -1,0 +1,14 @@
+---
+title: "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning"
+collection: publications
+permalink: /publication/agenteval
+excerpt: 'Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, **Yifei Zhou**, Alane Suhr, Saining Xie, Yann Lecun, Yi Ma, Sergey Levine'
+venue: 'Preprint'
+date: 2024-4-10
+---
+[paper](https://arxiv.org/abs/2405.10292)
+[website](https://rl4vlm.github.io/)
+[code](https://github.com/RL4VLM/RL4VLM)
+
+# abstract:
+Large vision-language models (VLMs) fine-tuned on specialized visual instruction-following data have exhibited impressive language reasoning capabilities across various scenarios. However, this fine-tuning paradigm may not be able to efficiently learn optimal decision-making agents in multi-step goal-directed tasks from interactive environments. To address this challenge, we propose an algorithmic framework that fine-tunes VLMs with reinforcement learning (RL). Specifically, our framework provides a task description and then prompts the VLM to generate chain-of-thought (CoT) reasoning, enabling the VLM to efficiently explore intermediate reasoning steps that lead to the final text-based action. Next, the open-ended text output is parsed into an executable action to interact with the environment to obtain goal-directed task rewards. Finally, our framework uses these task rewards to fine-tune the entire VLM with RL. Empirically, we demonstrate that our proposed framework enhances the decision-making capabilities of VLM agents across various tasks, enabling 7b models to outperform commercial models such as GPT4-V or Gemini. Furthermore, we find that CoT reasoning is a crucial component for performance improvement, as removing the CoT reasoning results in a significant decrease in the overall performance of our method.
