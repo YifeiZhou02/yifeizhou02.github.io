@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning"
 collection: publications
-permalink: /publication/agenteval
+permalink: /publication/rl4vlm
 excerpt: 'Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, **Yifei Zhou**, Alane Suhr, Saining Xie, Yann Lecun, Yi Ma, Sergey Levine'
 venue: 'Preprint'
 date: 2024-4-10
