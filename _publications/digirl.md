@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/digirl
 excerpt: 'Hao Bai\*, **Yifei Zhou**\* (equal contribution), Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar'
 venue: 'Preprint'
-date: 2024-4-10
+date: 2024-6-14
 ---
 [paper](https://arxiv.org/abs/2406.11896)
 [website](https://digirl-agent.github.io/)
