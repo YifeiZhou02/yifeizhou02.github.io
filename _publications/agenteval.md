@@ -3,7 +3,7 @@ title: "Autonomous Evaluation and Refinement of Digital Agents"
 collection: publications
 permalink: /publication/agenteval
 excerpt: 'Jiayi Pan, Yichi Zhang, Nicolas Tomlin, **Yifei Zhou**, Sergey Levine, Alane Suhr'
-venue: 'Preprint'
+venue: 'COLM 2024, Best Papar Award at MAR CVPR 2024'
 date: 2024-4-10
 ---
 [paper](https://arxiv.org/abs/2404.06474)
