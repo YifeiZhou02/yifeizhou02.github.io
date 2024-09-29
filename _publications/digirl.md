@@ -3,7 +3,7 @@ title: "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinf
 collection: publications
 permalink: /publication/digirl
 excerpt: 'Hao Bai\*, **Yifei Zhou**\* (equal contribution), Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar'
-venue: 'Preprint, Oral at FM-Wild ICML 2024 (3%)'
+venue: 'NeurIPS 2024, Oral at FM-Wild ICML 2024 (3%)'
 date: 2024-6-14
 ---
 [paper](https://arxiv.org/abs/2406.11896)
