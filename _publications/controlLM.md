@@ -3,7 +3,7 @@ title: "Aligning Large Language Models with Representation Editing: A Control Pe
 collection: publications
 permalink: /publication/controlLM
 excerpt: 'Lingkai Kong\*, Haorui Wang\*, Wenhao Mu\*, Yuanqi Du, Yuchen Zhuang, **Yifei Zhou**, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang'
-venue: 'Preprint'
+venue: 'NeurIPS 2024'
 date: 2024-6-11
 ---
 [paper](https://arxiv.org/abs/2406.11896)
