@@ -3,7 +3,7 @@ title: "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via R
 collection: publications
 permalink: /publication/rl4vlm
 excerpt: 'Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, **Yifei Zhou**, Alane Suhr, Saining Xie, Yann Lecun, Yi Ma, Sergey Levine'
-venue: 'Preprint'
+venue: 'NeurIPS 2024'
 date: 2024-4-10
 ---
 [paper](https://arxiv.org/abs/2405.10292)
