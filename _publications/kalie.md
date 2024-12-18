@@ -2,7 +2,7 @@
 title: "KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation without Robot Data"
 collection: publications
 permalink: /publication/kalie
-excerpt: 'Grace Tang*, Swetha Rajkumar*, **Yifei Zhou**, Homer Rich Walke, Sergey Levine, Kuan Fang'
+excerpt: 'Grace Tang\*, Swetha Rajkumar\*, **Yifei Zhou**, Homer Rich Walke, Sergey Levine, Kuan Fang'
 venue: 'Pre-print'
 date: 2024-10-18
 ---
