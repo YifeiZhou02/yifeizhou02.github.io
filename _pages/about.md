@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I'm Yifei, a second-year Ph.D. student affiliated with Berkeley AI Research (BAIR). I'm advised by [prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).
+Hi, there! I'm Yifei, a second-year Ph.D. student at Berkeley AI Research (BAIR). I'm advised by [prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). I am also a visiting researcher at FAIR, Meta.
 
-These days, I am most interested in interactive decision-making/reinforcement learning with LLM/VLMs (i.e. LLM/VLM agent). In particular, I am interested in large-scale self-improvement where the agent improves itself through open-ended reinforcement learning without any human supervision.
-
-I graduated from Cornell as an undergrad where I have am fortunate enough to have been working with [prof. Yansong Feng](https://sites.google.com/site/ysfeng/home) at Peking University, [prof. Wen Sun](https://wensun.github.io/) at Cornell University, and [prof. Sernam Lim](https://sites.google.com/site/sernam) at Meta AI. 
-
-
-## Awards Received
-Pauline and Irving Tanner Dean's Scholarship
-
-CRA Outstanding Undergraduate Researcher Award Finalist 2023
+These days, I am most interested in interactive decision-making/reinforcement learning with LLM/VLMs (i.e. LLM/VLM agent). In particular, I am interested in large-scale self-improvement where the agent improves itself through open-ended reinforcement learning without relying on any human supervision.
