@@ -1,8 +1,8 @@
 ---
-title: "PSWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks"
+title: "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks"
 collection: publications
 permalink: /publication/sweetrl
-excerpt: '**Yifei Zhou**, Song Jiang\*, Yuandong Tian, Sergey Levine, Sainbayar Sukhbaatar, Xian Li
+excerpt: '**Yifei Zhou**, Song Jiang, Yuandong Tian, Sergey Levine, Sainbayar Sukhbaatar, Xian Li'
 venue: 'Pre-print'
 date: 2025-3-24
 ---
