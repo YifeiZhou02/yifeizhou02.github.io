@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/apr
 excerpt: 'Jiayi Pan\*, Xiuyu Li\*, Long Lian\*, Charlie Victor Snell, **Yifei Zhou**, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr'
 venue: 'Preprint'
-date: 2024-4-21
+date: 2025-4-21
 ---
 [paper](https://arxiv.org/abs/2504.15466)
 [code](https://github.com/Parallel-Reasoning/APR?tab=readme-ov-file)
