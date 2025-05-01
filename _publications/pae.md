@@ -4,7 +4,7 @@ For Foundation Model Internet Agents"
 collection: publications
 permalink: /publication/pae
 excerpt: '**Yifei Zhou**\*, Qianlan Yang\*, Kaixiang Lin, Min Bai, Xiong Zhou, Yu-Xiong Wang, Sergey Levine, Erran Li'
-venue: 'Pre-print'
+venue: 'ICML2025'
 date: 2024-12-18
 ---
 [paper](https://arxiv.org/abs/2412.13194)
