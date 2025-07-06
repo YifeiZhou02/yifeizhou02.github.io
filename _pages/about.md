@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I'm Yifei, currently a member of technical staff at xAI, on leave from my Ph.D. at Berkeley advised by [prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).
+Hi, there! I'm Yifei, currently a member of technical staff at [xAI](https://x.ai/), on leave from my Ph.D. at Berkeley advised by [prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).
 
 These days, I am most interested in interactive decision-making/reinforcement learning with LLM/VLMs (i.e. LLM/VLM agent). In particular, I am interested in large-scale self-improvement where the agent improves itself through open-ended reinforcement learning without relying on any human supervision.
 
