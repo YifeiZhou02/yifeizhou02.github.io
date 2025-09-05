@@ -4,7 +4,7 @@ with Language Models"
 collection: publications
 permalink: /publication/apr
 excerpt: 'Jiayi Pan\*, Xiuyu Li\*, Long Lian\*, Charlie Victor Snell, **Yifei Zhou**, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr'
-venue: 'Preprint'
+venue: 'COLM 2025'
 date: 2025-4-21
 ---
 [paper](https://arxiv.org/abs/2504.15466)
