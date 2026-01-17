@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I'm Yifei, currently a member of technical staff at [xAI](https://x.ai/), on leave from my Ph.D. at Berkeley advised by [prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).
+Hi, there! I'm Yifei, currently a member of technical staff at Thinking Machines Lab. Previously, I have been a member of technical staff at xAI, visiting research at FAIR, and PhD student at Berkeley.
 
-These days, I am most interested in interactive decision-making/reinforcement learning with LLM/VLMs (i.e. LLM/VLM agent). In particular, I am interested in large-scale self-improvement where the agent improves itself through open-ended reinforcement learning without relying on any human supervision.
+These days I am most excited about improving agentic capabilities with RL, and its synergy with user provided cobtext and design of RL framework.
+
+
 
 ## Recent Blogposts
 If time allows, I will try to put down my reflections in blog posts. Feel free to let me know if there is a specific topic that you would like me to write a blog post about!
